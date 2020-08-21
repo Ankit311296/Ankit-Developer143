@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ankit
 
 
-- 🌱 I’m currently learning  Web-Development.
+- 🌱 I’m currently learning  Django.
 - 👯 I’m looking to collaborate on creating content!
 - 💬 Ask me about JavaScript, Python, Html & CSS, MySql, Java. 
 - 😄 Pronouns: he/him
