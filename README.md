@@ -7,4 +7,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Practicing clean Code!
 -->
-- :white_check_mark: Check My portfolio [live](https://trusting-panini-3aed02.netlify.app/)
+- :white_check_mark: Check My portfolio 
+[Live Demo](https://relaxed-leavitt-0fc834.netlify.app)
