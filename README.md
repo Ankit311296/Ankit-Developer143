@@ -7,4 +7,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Practicing clean Code!
 -->
-Check My portfolio [live](https://trusting-panini-3aed02.netlify.app/)
+-Check My portfolio [live](https://trusting-panini-3aed02.netlify.app/)
