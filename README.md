@@ -28,13 +28,3 @@
 </br>
 
 
-### Connect with me:
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img src = "https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">][gmail]
-<a href="https://dev.to/pratham82">
-<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="35" height="35" >
-</a>
-
-[website]: https://www.linkedin.com/in/ankit-singh-84b88a189/
-[gmail]: https://mail.google.com/mail/u/0/#inbox
