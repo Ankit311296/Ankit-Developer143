@@ -21,7 +21,7 @@
 </br>
 </br>
 <a href="#stats">
-<img align="center" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=pratham82&hide=css&layout=compact" />
+<img align="center" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=Ankit-Developer143&hide=css&layout=compact" />
 </a>
 
 </br>
