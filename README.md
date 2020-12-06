@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning  Django.
 - 👯 I’m looking to collaborate on creating content!
-- 💬 Ask me about JavaScript, Python, Html & CSS, MySql, Java kotlin (Android)
+- 💬 Ask me about JavaScript, Python, Html & CSS, MySql, Java,kotlin (Android)
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: Practicing clean Code!
 -->
