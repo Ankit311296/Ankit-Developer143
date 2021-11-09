@@ -28,6 +28,6 @@
 </br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Developer143&" alt="pratham82" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Developer143&" alt="Ankit-Developer143" /></p>
 </br>
 </br>
